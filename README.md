@@ -1,1 +1,1 @@
-# c34-checkpoint-class
+# C34_template_code
